@@ -51,6 +51,6 @@ This creates `data/sales.db` (a SQLite database with a `sales` table) and
    - Stacked bar: `store_category_breakdown`
 4. Add slicers for `store` and `category` to make the dashboard interactive.
 
-## License
+##Author
 
-MIT
+SIDDHANT SENGAR
